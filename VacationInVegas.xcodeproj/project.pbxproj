@@ -10,6 +10,8 @@
 		E436706E2C4A798000A30444 /* Symbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = E436706D2C4A798000A30444 /* Symbols.swift */; };
 		E43670702C4A84F000A30444 /* ScrollImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E436706F2C4A84F000A30444 /* ScrollImage.swift */; };
 		E43670722C4A9A8900A30444 /* Scrolling.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43670712C4A9A8900A30444 /* Scrolling.swift */; };
+		E446A4342C4E45AC00FC2886 /* PlaceList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E446A4332C4E45AC00FC2886 /* PlaceList.swift */; };
+		E44A9CF52C4B987B00E736DB /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = E44A9CF42C4B987000E736DB /* Place.swift */; };
 		E4FF8AC62C48F3A000AFE137 /* VacationInVegasApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4FF8AC52C48F3A000AFE137 /* VacationInVegasApp.swift */; };
 		E4FF8AC82C48F3A000AFE137 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4FF8AC72C48F3A000AFE137 /* ContentView.swift */; };
 		E4FF8ACA2C48F3A900AFE137 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4FF8AC92C48F3A900AFE137 /* Assets.xcassets */; };
@@ -20,6 +22,8 @@
 		E436706D2C4A798000A30444 /* Symbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Symbols.swift; sourceTree = "<group>"; };
 		E436706F2C4A84F000A30444 /* ScrollImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollImage.swift; sourceTree = "<group>"; };
 		E43670712C4A9A8900A30444 /* Scrolling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scrolling.swift; sourceTree = "<group>"; };
+		E446A4332C4E45AC00FC2886 /* PlaceList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceList.swift; sourceTree = "<group>"; };
+		E44A9CF42C4B987000E736DB /* Place.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
 		E4FF8AC22C48F3A000AFE137 /* VacationInVegas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VacationInVegas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4FF8AC52C48F3A000AFE137 /* VacationInVegasApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VacationInVegasApp.swift; sourceTree = "<group>"; };
 		E4FF8AC72C48F3A000AFE137 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +61,8 @@
 		E4FF8AC42C48F3A000AFE137 /* VacationInVegas */ = {
 			isa = PBXGroup;
 			children = (
+				E44A9CF42C4B987000E736DB /* Place.swift */,
+				E446A4332C4E45AC00FC2886 /* PlaceList.swift */,
 				E4FF8AC52C48F3A000AFE137 /* VacationInVegasApp.swift */,
 				E4FF8AC72C48F3A000AFE137 /* ContentView.swift */,
 				E436706F2C4A84F000A30444 /* ScrollImage.swift */,
@@ -149,6 +155,8 @@
 				E436706E2C4A798000A30444 /* Symbols.swift in Sources */,
 				E4FF8AC82C48F3A000AFE137 /* ContentView.swift in Sources */,
 				E43670722C4A9A8900A30444 /* Scrolling.swift in Sources */,
+				E44A9CF52C4B987B00E736DB /* Place.swift in Sources */,
+				E446A4342C4E45AC00FC2886 /* PlaceList.swift in Sources */,
 				E43670702C4A84F000A30444 /* ScrollImage.swift in Sources */,
 				E4FF8AC62C48F3A000AFE137 /* VacationInVegasApp.swift in Sources */,
 			);
