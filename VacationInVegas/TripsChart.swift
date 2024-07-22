@@ -25,7 +25,8 @@ struct TripsChart: View {
     var body: some View {
         Chart(SampleTripRating.ratings, id : \.trip){ rating in
             BarMark(x : .value("Year", rating.trip),
-                  y : .value("Rating", rating.rating)
+                  y : .value("Rating", rating.rating),
+                    width: 8
             )
             
             LinePlot(x: "Years", y: "Ratings"){ x in
