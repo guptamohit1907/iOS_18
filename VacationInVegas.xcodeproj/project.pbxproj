@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E42031832C4EBA690008C8DD /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42031822C4EBA690008C8DD /* MapView.swift */; };
+		E42031852C4ED6950008C8DD /* RatingChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42031842C4ED6950008C8DD /* RatingChart.swift */; };
+		E42031872C4ED77E0008C8DD /* VegasChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42031862C4ED77E0008C8DD /* VegasChart.swift */; };
 		E436706E2C4A798000A30444 /* Symbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = E436706D2C4A798000A30444 /* Symbols.swift */; };
 		E43670702C4A84F000A30444 /* ScrollImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E436706F2C4A84F000A30444 /* ScrollImage.swift */; };
 		E43670722C4A9A8900A30444 /* Scrolling.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43670712C4A9A8900A30444 /* Scrolling.swift */; };
@@ -19,6 +22,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E42031822C4EBA690008C8DD /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		E42031842C4ED6950008C8DD /* RatingChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingChart.swift; sourceTree = "<group>"; };
+		E42031862C4ED77E0008C8DD /* VegasChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegasChart.swift; sourceTree = "<group>"; };
 		E436706D2C4A798000A30444 /* Symbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Symbols.swift; sourceTree = "<group>"; };
 		E436706F2C4A84F000A30444 /* ScrollImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollImage.swift; sourceTree = "<group>"; };
 		E43670712C4A9A8900A30444 /* Scrolling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scrolling.swift; sourceTree = "<group>"; };
@@ -65,6 +71,9 @@
 				E446A4332C4E45AC00FC2886 /* PlaceList.swift */,
 				E4FF8AC52C48F3A000AFE137 /* VacationInVegasApp.swift */,
 				E4FF8AC72C48F3A000AFE137 /* ContentView.swift */,
+				E42031862C4ED77E0008C8DD /* VegasChart.swift */,
+				E42031842C4ED6950008C8DD /* RatingChart.swift */,
+				E42031822C4EBA690008C8DD /* MapView.swift */,
 				E436706F2C4A84F000A30444 /* ScrollImage.swift */,
 				E43670712C4A9A8900A30444 /* Scrolling.swift */,
 				E436706D2C4A798000A30444 /* Symbols.swift */,
@@ -156,8 +165,11 @@
 				E4FF8AC82C48F3A000AFE137 /* ContentView.swift in Sources */,
 				E43670722C4A9A8900A30444 /* Scrolling.swift in Sources */,
 				E44A9CF52C4B987B00E736DB /* Place.swift in Sources */,
+				E42031872C4ED77E0008C8DD /* VegasChart.swift in Sources */,
 				E446A4342C4E45AC00FC2886 /* PlaceList.swift in Sources */,
 				E43670702C4A84F000A30444 /* ScrollImage.swift in Sources */,
+				E42031852C4ED6950008C8DD /* RatingChart.swift in Sources */,
+				E42031832C4EBA690008C8DD /* MapView.swift in Sources */,
 				E4FF8AC62C48F3A000AFE137 /* VacationInVegasApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
